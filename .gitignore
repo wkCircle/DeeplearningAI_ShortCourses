@@ -1,3 +1,6 @@
+# self-defined files/folders 
+Notion_DB/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
